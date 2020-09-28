@@ -1,4 +1,4 @@
-# AdvancedAlgorithmicProblemsPython
+# Advanced Algorithmic Problems With Python
 > Collecting an example of advanced algorithmic problems in Python.
 
 These are examples of possible problems that may be asked during an interview for a Python developer.
